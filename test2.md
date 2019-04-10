@@ -1,7 +1,7 @@
 before uni
 
 <div itemscope itemtype="http://schema.org/Dataset">
-  <div itemprop="name" content="Test dataset name content" value="Test dataset name value" />
+  <span itemprop="name" value="Test dataset name value">&nbsp;</span>
   <meta itemprop="description" content="Description of the test dataset content" value="Description of the test dataset value" />
 </div>
 
