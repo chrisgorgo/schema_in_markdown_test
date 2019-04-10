@@ -1,4 +1,4 @@
 <div itemscope itemtype="http://schema.org/Dataset">
-  <meta itemprop="name" content="Test dataset name" />
-  <meta itemprop="description" content="Description of the test dataset" />
+  <div itemprop="name" content="Test dataset name content" value="Test dataset name value" />
+  <meta itemprop="description" content="Description of the test dataset content" value="Description of the test dataset value" />
 </div>
