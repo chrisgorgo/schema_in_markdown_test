@@ -2,6 +2,6 @@
 
 Metadata:
 <div itemscope itemtype="http://schema.org/Dataset">
-  name: <h1 itemprop="name">Test dataset name</h1>
-  description: <div itemprop="description">Description of the test dataset</div>
+  name: <pre itemprop="name">Test dataset name</pre>
+  description: <pre itemprop="description">Description of the test dataset</pre>
 </div>
