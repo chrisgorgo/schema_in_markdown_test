@@ -1,6 +1,7 @@
 ### Schema.org/Dataset Metadata
 <div itemscope itemtype="http://schema.org/Dataset">
 <table>
+  <caption>http://schema.org/Dataset</caption>
   <tr>
     <th>property</th>
     <th>value</th>
@@ -21,7 +22,7 @@
   <tr>
     <td>distribution</td>
     <td>
-      Schema.org/DataDownload
+      <caption>http://schema.org/DataDownload</caption>
       <div itemscope itemtype="http://schema.org/DataDownload" itemprop="distribution">
         <table>
           <tr>
