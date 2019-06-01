@@ -22,7 +22,7 @@
     <td>distribution</td>
     <td>
       Schema.org/DataDownload
-      <div itemscope itemtype="http://schema.org/DataDownload">
+      <div itemscope itemtype="http://schema.org/DataDownload" itemprop="distribution">
         <table>
           <tr>
             <th>property</th>
