@@ -22,9 +22,9 @@
   <tr>
     <td>distribution</td>
     <td>
-      <caption>http://schema.org/DataDownload</caption>
       <div itemscope itemtype="http://schema.org/DataDownload" itemprop="distribution">
-        <table>
+        <table
+          <caption>http://schema.org/DataDownload</caption>
           <tr>
             <th>property</th>
             <th>value</th>
