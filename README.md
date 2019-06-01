@@ -2,8 +2,8 @@
 <div itemscope itemtype="http://schema.org/Dataset">
 <table>
   <tr>
-    <th>field name</th>
-    <th>field value</th>
+    <th>property</th>
+    <th>value</th>
   </tr>
   <tr>
     <td>name</td>
@@ -17,6 +17,28 @@
     <td>description</td>
     <td itemprop="description">Description of the test dataset that can be very long if needs be. 
   Even with line breaks</td> 
+  </tr>
+  <tr>
+    <td>distribution</td>
+    <td>
+      Schema.org/DataDownload
+      <div itemscope itemtype="http://schema.org/DataDownload">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>contentUrl</td>
+            <td itemprop="contentUrl">https://github.com/chrisgorgo/schema_in_markdown_test/data.csv</td> 
+          </tr>
+          <tr>
+            <td>encodingType</td>
+            <td itemprop="encodingFormat">CSV</td> 
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
 </div>
