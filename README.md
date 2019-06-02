@@ -1,5 +1,5 @@
 ### Dataset Metadata
-The following table is necessary for this dataset to be indexed by <a href="hhtps://g.co/datasetsearch">Google Dataset Search</a>.
+The following table is necessary for this dataset to be indexed by <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
 <div itemscope itemtype="http://schema.org/Dataset">
 <table>
   <tr>
