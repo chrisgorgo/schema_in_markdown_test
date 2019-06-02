@@ -23,7 +23,7 @@ The following table is necessary for this dataset to be indexed by <a href="http
     <td>distribution</td>
     <td>
       <div itemscope itemtype="http://schema.org/DataDownload" itemprop="distribution">
-        <table
+        <table>
           <tr>
             <th>property</th>
             <th>value</th>
