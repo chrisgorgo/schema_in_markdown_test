@@ -1,7 +1,7 @@
-### Schema.org/Dataset Metadata
+### Dataset Metadata
+The following table is necessary for this dataset to be indexed by <a href="hhtps://g.co/datasetsearch">Google Dataset Search</a>.
 <div itemscope itemtype="http://schema.org/Dataset">
 <table>
-  <caption>http://schema.org/Dataset</caption>
   <tr>
     <th>property</th>
     <th>value</th>
@@ -24,7 +24,6 @@
     <td>
       <div itemscope itemtype="http://schema.org/DataDownload" itemprop="distribution">
         <table
-          <caption>http://schema.org/DataDownload</caption>
           <tr>
             <th>property</th>
             <th>value</th>
